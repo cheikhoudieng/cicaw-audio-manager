@@ -1,0 +1,16 @@
+audioop-lts==0.2.2
+certifi==2025.8.3
+charset-normalizer==3.4.3
+decorator==4.4.2
+idna==3.10
+imageio==2.37.0
+imageio-ffmpeg==0.6.0
+moviepy==1.0.3
+numpy==2.3.3
+pillow==11.3.0
+proglog==0.1.12
+pydub==0.25.1
+python-dotenv==1.1.1
+requests==2.32.5
+tqdm==4.67.1
+urllib3==2.5.0
